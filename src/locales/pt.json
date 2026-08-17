@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "brand": "Glosc AI",
+    "openSource": "Código aberto",
+    "privacy": "Política de privacidade",
+    "terms": "Termos de serviço"
+  },
+  "hero": {
+    "title1": "Glosc",
+    "title2": "AI",
+    "description": "Uma organização de IA em estágio inicial que constrói produtos e ferramentas de IA práticos, cultiva uma base de código aberto e coloca a segurança como princípio central.",
+    "ctaProducts": "Ver código aberto",
+    "ctaGithub": "Organização no GitHub"
+  },
+  "capabilities": {
+    "item1": "Entrega de produtos de IA",
+    "item2": "Colaboração de engenharia",
+    "item3": "Segurança em primeiro lugar"
+  },
+  "openSource": {
+    "eyebrow": "Open Source",
+    "title": "Projetos de código aberto",
+    "description": "Construímos continuamente componentes, ferramentas e experimentos no GitHub. Abaixo estão os repositórios públicos com um site configurado.",
+    "loading": "Carregando projetos do GitHub...",
+    "error": "Falha ao carregar, possivelmente devido ao limite de requisições da API do GitHub. Tente novamente mais tarde.",
+    "empty": "Ainda não há projetos públicos com um site configurado.",
+    "viewRepo": "Repositório",
+    "visit": "Visitar site"
+  },
+  "footer": {
+    "backToTop": "Voltar ao topo",
+    "openSource": "Código aberto",
+    "github": "GitHub",
+    "privacy": "Política de privacidade",
+    "terms": "Termos de serviço",
+    "rights": "© {year} Glosc AI. Todos os direitos reservados."
+  },
+  "theme": {
+    "toggle": "Alternar tema"
+  },
+  "language": {
+    "label": "Idioma"
+  },
+  "legal": {
+    "backHome": "Voltar para o início",
+    "notAvailable": "Esta página ainda não foi traduzida, a versão em {lang} é exibida abaixo.",
+    "chinese": "chinês",
+    "english": "inglês"
+  }
+}

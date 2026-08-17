@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "brand": "Glosc AI",
+    "openSource": "开源项目",
+    "privacy": "隐私政策",
+    "terms": "服务条款"
+  },
+  "hero": {
+    "title1": "Glosc",
+    "title2": "AI",
+    "description": "一家刚起步的 AI 组织，专注于构建实用的 AI 产品与工具，持续沉淀开源能力，并以安全为核心原则。",
+    "ctaProducts": "查看开源项目",
+    "ctaGithub": "GitHub 组织"
+  },
+  "capabilities": {
+    "item1": "AI 产品落地",
+    "item2": "工程化协作",
+    "item3": "安全优先"
+  },
+  "openSource": {
+    "eyebrow": "Open Source",
+    "title": "开源项目",
+    "description": "在 GitHub 持续沉淀组件、工具链与实验项目，以下为已配置官网的公开仓库。",
+    "loading": "正在从 GitHub 加载项目...",
+    "error": "加载失败，可能触发了 GitHub API 访问限制，请稍后重试。",
+    "empty": "暂无配置了网址的公开项目。",
+    "viewRepo": "仓库",
+    "visit": "访问网站"
+  },
+  "footer": {
+    "backToTop": "返回顶部",
+    "openSource": "开源项目",
+    "github": "GitHub",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "rights": "© {year} Glosc AI. 保留所有权利。"
+  },
+  "theme": {
+    "toggle": "切换主题"
+  },
+  "language": {
+    "label": "语言"
+  },
+  "legal": {
+    "backHome": "返回首页",
+    "notAvailable": "当前语言暂无翻译，以下显示{lang}版本。",
+    "chinese": "中文",
+    "english": "英文"
+  }
+}

@@ -44,58 +44,58 @@
 
 :root {
   --radius: 0.625rem;
-  --background: oklch(0.16 0.02 258);
-  --foreground: oklch(0.96 0.01 255);
-  --card: oklch(0.22 0.02 255 / 92%);
-  --card-foreground: oklch(0.96 0.01 255);
-  --popover: oklch(0.2 0.02 255 / 96%);
-  --popover-foreground: oklch(0.96 0.01 255);
-  --primary: oklch(0.75 0.14 191);
-  --primary-foreground: oklch(0.17 0.02 255);
-  --secondary: oklch(0.28 0.02 255);
-  --secondary-foreground: oklch(0.96 0.01 255);
-  --muted: oklch(0.24 0.02 255);
-  --muted-foreground: oklch(0.72 0.01 255);
-  --accent: oklch(0.31 0.03 238);
-  --accent-foreground: oklch(0.97 0.01 255);
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.2 0.01 258);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.2 0.01 258);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.2 0.01 258);
+  --primary: oklch(0.6 0.14 199);
+  --primary-foreground: oklch(0.99 0.005 258);
+  --secondary: oklch(0.96 0.005 258);
+  --secondary-foreground: oklch(0.2 0.01 258);
+  --muted: oklch(0.96 0.005 258);
+  --muted-foreground: oklch(0.5 0.01 258);
+  --accent: oklch(0.95 0.02 199);
+  --accent-foreground: oklch(0.24 0.02 199);
   --destructive: oklch(0.577 0.245 27.325);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 14%);
-  --ring: oklch(0.75 0.14 191 / 65%);
-  --chart-1: oklch(0.75 0.14 191);
-  --chart-2: oklch(0.71 0.15 151);
-  --chart-3: oklch(0.76 0.15 82);
-  --chart-4: oklch(0.68 0.17 25);
-  --chart-5: oklch(0.7 0.15 295);
-  --sidebar: oklch(0.18 0.02 255);
-  --sidebar-foreground: oklch(0.96 0.01 255);
-  --sidebar-primary: oklch(0.75 0.14 191);
-  --sidebar-primary-foreground: oklch(0.17 0.02 255);
-  --sidebar-accent: oklch(0.25 0.02 255);
-  --sidebar-accent-foreground: oklch(0.96 0.01 255);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.75 0.14 191 / 65%);
+  --border: oklch(0.9 0.005 258);
+  --input: oklch(0.9 0.005 258);
+  --ring: oklch(0.6 0.14 199 / 55%);
+  --chart-1: oklch(0.6 0.14 199);
+  --chart-2: oklch(0.6 0.14 151);
+  --chart-3: oklch(0.65 0.15 82);
+  --chart-4: oklch(0.62 0.17 25);
+  --chart-5: oklch(0.62 0.15 295);
+  --sidebar: oklch(0.98 0.005 258);
+  --sidebar-foreground: oklch(0.2 0.01 258);
+  --sidebar-primary: oklch(0.6 0.14 199);
+  --sidebar-primary-foreground: oklch(0.99 0.005 258);
+  --sidebar-accent: oklch(0.95 0.01 258);
+  --sidebar-accent-foreground: oklch(0.2 0.01 258);
+  --sidebar-border: oklch(0.9 0.005 258);
+  --sidebar-ring: oklch(0.6 0.14 199 / 55%);
 }
 
 .dark {
   --background: oklch(0.16 0.02 258);
   --foreground: oklch(0.96 0.01 255);
-  --card: oklch(0.22 0.02 255 / 92%);
+  --card: oklch(0.2 0.02 255);
   --card-foreground: oklch(0.96 0.01 255);
-  --popover: oklch(0.2 0.02 255 / 96%);
+  --popover: oklch(0.2 0.02 255);
   --popover-foreground: oklch(0.96 0.01 255);
   --primary: oklch(0.75 0.14 191);
   --primary-foreground: oklch(0.17 0.02 255);
-  --secondary: oklch(0.28 0.02 255);
+  --secondary: oklch(0.26 0.02 255);
   --secondary-foreground: oklch(0.96 0.01 255);
   --muted: oklch(0.24 0.02 255);
-  --muted-foreground: oklch(0.72 0.01 255);
-  --accent: oklch(0.31 0.03 238);
+  --muted-foreground: oklch(0.68 0.01 255);
+  --accent: oklch(0.28 0.03 238);
   --accent-foreground: oklch(0.97 0.01 255);
   --destructive: oklch(0.704 0.191 22.216);
   --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.75 0.14 191 / 65%);
+  --input: oklch(1 0 0 / 14%);
+  --ring: oklch(0.75 0.14 191 / 55%);
   --chart-1: oklch(0.75 0.14 191);
   --chart-2: oklch(0.71 0.15 151);
   --chart-3: oklch(0.76 0.15 82);
@@ -108,12 +108,11 @@
   --sidebar-accent: oklch(0.25 0.02 255);
   --sidebar-accent-foreground: oklch(0.96 0.01 255);
   --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.75 0.14 191 / 65%);
+  --sidebar-ring: oklch(0.75 0.14 191 / 55%);
 }
 
 @layer base {
   html {
-    color-scheme: dark;
     scroll-behavior: smooth;
   }
 
@@ -133,10 +132,9 @@
   body {
     @apply bg-background text-foreground antialiased;
     font-family: 'Space Grotesk', 'Noto Sans SC', sans-serif;
-    background-image:
-      radial-gradient(circle at top left, rgba(34, 211, 238, 0.12), transparent 28%),
-      radial-gradient(circle at top right, rgba(59, 130, 246, 0.12), transparent 24%),
-      linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0));
+    transition:
+      background-color 0.2s ease,
+      color 0.2s ease;
   }
 
   a {

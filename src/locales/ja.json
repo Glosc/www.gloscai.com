@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "brand": "Glosc AI",
+    "openSource": "オープンソース",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  },
+  "hero": {
+    "title1": "Glosc",
+    "title2": "AI",
+    "description": "実用的な AI プロダクトとツールの構築に取り組む新進の AI 組織です。オープンソースの蓄積を続け、セキュリティを核心的な原則としています。",
+    "ctaProducts": "オープンソースを見る",
+    "ctaGithub": "GitHub 組織"
+  },
+  "capabilities": {
+    "item1": "AI プロダクトの実装",
+    "item2": "エンジニアリング協業",
+    "item3": "セキュリティ優先"
+  },
+  "openSource": {
+    "eyebrow": "Open Source",
+    "title": "オープンソースプロジェクト",
+    "description": "GitHub 上でコンポーネント、ツールチェーン、実験プロジェクトを継続的に構築しています。以下はウェブサイトが設定された公開リポジトリです。",
+    "loading": "GitHub からプロジェクトを読み込んでいます...",
+    "error": "読み込みに失敗しました。GitHub API のレート制限の可能性があります。しばらくしてから再試行してください。",
+    "empty": "ウェブサイトが設定された公開プロジェクトはまだありません。",
+    "viewRepo": "リポジトリ",
+    "visit": "サイトを見る"
+  },
+  "footer": {
+    "backToTop": "トップに戻る",
+    "openSource": "オープンソース",
+    "github": "GitHub",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "rights": "© {year} Glosc AI. All rights reserved."
+  },
+  "theme": {
+    "toggle": "テーマを切り替え"
+  },
+  "language": {
+    "label": "言語"
+  },
+  "legal": {
+    "backHome": "ホームに戻る",
+    "notAvailable": "このページはまだ翻訳されていません。以下に{lang}版を表示します。",
+    "chinese": "中国語",
+    "english": "英語"
+  }
+}

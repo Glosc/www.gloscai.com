@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "brand": "Glosc AI",
+    "openSource": "Open Source",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "hero": {
+    "title1": "Glosc",
+    "title2": "AI",
+    "description": "An early-stage AI organization building practical AI products and tools, growing an open-source foundation, with security as a core principle.",
+    "ctaProducts": "View open source",
+    "ctaGithub": "GitHub Org"
+  },
+  "capabilities": {
+    "item1": "AI product delivery",
+    "item2": "Engineering collaboration",
+    "item3": "Security first"
+  },
+  "openSource": {
+    "eyebrow": "Open Source",
+    "title": "Open Source Projects",
+    "description": "We continuously build components, tooling, and experiments on GitHub. Below are public repositories with a configured website.",
+    "loading": "Loading projects from GitHub...",
+    "error": "Failed to load. This may be due to GitHub API rate limits, please try again later.",
+    "empty": "No public projects with a website configured yet.",
+    "viewRepo": "Repo",
+    "visit": "Visit site"
+  },
+  "footer": {
+    "backToTop": "Back to top",
+    "openSource": "Open Source",
+    "github": "GitHub",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "© {year} Glosc AI. All rights reserved."
+  },
+  "theme": {
+    "toggle": "Toggle theme"
+  },
+  "language": {
+    "label": "Language"
+  },
+  "legal": {
+    "backHome": "Back to home",
+    "notAvailable": "This page isn't translated yet, showing the {lang} version below.",
+    "chinese": "Chinese",
+    "english": "English"
+  }
+}

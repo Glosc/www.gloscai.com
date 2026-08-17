@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "brand": "Glosc AI",
+    "openSource": "Open Source",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen"
+  },
+  "hero": {
+    "title1": "Glosc",
+    "title2": "AI",
+    "description": "Eine junge KI-Organisation, die praktische KI-Produkte und -Werkzeuge entwickelt, kontinuierlich Open-Source-Kompetenz aufbaut und Sicherheit als Kernprinzip versteht.",
+    "ctaProducts": "Open Source ansehen",
+    "ctaGithub": "GitHub-Organisation"
+  },
+  "capabilities": {
+    "item1": "KI-Produktumsetzung",
+    "item2": "Engineering-Zusammenarbeit",
+    "item3": "Sicherheit zuerst"
+  },
+  "openSource": {
+    "eyebrow": "Open Source",
+    "title": "Open-Source-Projekte",
+    "description": "Wir bauen fortlaufend Komponenten, Tooling und Experimente auf GitHub. Unten stehen öffentliche Repositories mit konfigurierter Website.",
+    "loading": "Projekte werden von GitHub geladen...",
+    "error": "Laden fehlgeschlagen, möglicherweise wegen des GitHub-API-Ratenlimits. Bitte später erneut versuchen.",
+    "empty": "Noch keine öffentlichen Projekte mit konfigurierter Website.",
+    "viewRepo": "Repository",
+    "visit": "Website besuchen"
+  },
+  "footer": {
+    "backToTop": "Nach oben",
+    "openSource": "Open Source",
+    "github": "GitHub",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "rights": "© {year} Glosc AI. Alle Rechte vorbehalten."
+  },
+  "theme": {
+    "toggle": "Design wechseln"
+  },
+  "language": {
+    "label": "Sprache"
+  },
+  "legal": {
+    "backHome": "Zurück zur Startseite",
+    "notAvailable": "Diese Seite ist noch nicht übersetzt, unten wird die {lang} Version angezeigt.",
+    "chinese": "chinesische",
+    "english": "englische"
+  }
+}
